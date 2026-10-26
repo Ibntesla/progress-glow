@@ -1,0 +1,7 @@
+{
+  "name": "progress-glow",
+  "version": "0.1.0",
+  "description": "A minimalist glowing orange progress bar with percent and estimated finish time",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
